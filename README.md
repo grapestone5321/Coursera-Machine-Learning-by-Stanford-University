@@ -68,6 +68,17 @@ What if your input has more than one value? In this module, we show how linear r
 
 We also discuss best practices for implementing linear regression.
 
+- Normal Equation
+- Normal Equation Noninvertibility
+
+
+
+
+- Working on and Submitting Programming Assignments
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%202/Lecture4.pdf
+
 ## Octave/Matlab Tutorial
 
 This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. 
@@ -75,6 +86,12 @@ This course includes programming assignments designed to help you understand how
 To complete the programming assignments, you will need to use Octave or MATLAB. 
 
 This module introduces Octave/Matlab and shows you how to submit an assignment.
+
+
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%202/Lecture5.pdf
+
 
 # WEEK 3
 
