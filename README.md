@@ -62,16 +62,26 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 2
 
-## 2.1 Linear Regression with Multiple Variables
+## 2.1 Environment Setup Instructions
+
+
+## 2.2 Linear Regression with Multiple Variables
+### Multivariate Linear Regression
 
 What if your input has more than one value? In this module, we show how linear regression can be extended to accommodate multiple input features. 
 
 We also discuss best practices for implementing linear regression.
 
+
+
+
+
+### Computing Parameters Analitically
+
 - Normal Equation
 - Normal Equation Noninvertibility
 
-
+### Submitting Programming Assignments 
 
 
 - Working on and Submitting Programming Assignments
@@ -87,6 +97,12 @@ To complete the programming assignments, you will need to use Octave or MATLAB.
 
 This module introduces Octave/Matlab and shows you how to submit an assignment.
 
+- Basic Operations
+- Moving Data Around
+- Computing on Data
+- Plotting Data
+- Control Statements: for, while, if statement
+- Vectorization
 
 
 ### Slide:
