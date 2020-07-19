@@ -14,11 +14,15 @@ The Course Wiki is under construction. Please visit the resources tab for the mo
 - Supervised Learning
 - Unsupervised Learning
 
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%201/Lecture1.pdf
+
 ## 1.2 Linear Regression with One Variable
 
 Linear regression predicts a real-valued output based on an input value. 
 
 We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning.
+
 
 ### Model and Cost Function
 - Model Representation
@@ -31,7 +35,8 @@ We discuss the application of linear regression to housing price prediction, pre
 - Gradient Descent Intuition
 - Gradient Descent For Linear Regression
 
-
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%201/Lecture2.pdf
 
 
 
@@ -50,6 +55,10 @@ Basic understanding of linear algebra is necessary for the rest of the course, e
 - Matrix Matrix Multiplication
 - Matrix Multiplication Properties
 - Inverse and Transpose
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%201/Lecture3.pdf
+
 
 # WEEK 2
 
