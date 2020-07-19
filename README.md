@@ -111,6 +111,39 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 3
 
+## 3.1 Logistic Regression
+Logistic regression is a method for classifying data into discrete outcomes. 
+
+For example, we might use logistic regression to classify an email as spam or not spam. 
+
+In this module, we introduce the notion of classification, the cost function for logistic regression, and the application of logistic regression to multi-class classification.
+
+### Classification and Representation
+- Classification
+- Hypothesis Representation
+- Decision Boundary
+
+### Logistic Regression Model
+- Cost Function
+- Simplified Cost Function and Gradient Descent
+- Advanced Optimization
+
+### Multiclass Classification
+- Multiclass Classification: One-vs-all
+
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%203/Lecture6.pdf
+
+
+
+
+## 3.2 Regularization
+Machine learning models need to generalize well to new examples that the model has not seen in practice. 
+
+In this module, we introduce regularization, which helps prevent models from overfitting the training data.
+
+
 # WEEK 4
 
 # WEEK 5
