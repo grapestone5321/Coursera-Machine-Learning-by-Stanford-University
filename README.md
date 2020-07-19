@@ -62,7 +62,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 2
 
-## Linear Regression with Multiple Variables
+## 2.1 Linear Regression with Multiple Variables
 
 What if your input has more than one value? In this module, we show how linear regression can be extended to accommodate multiple input features. 
 
@@ -79,7 +79,7 @@ We also discuss best practices for implementing linear regression.
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%202/Lecture4.pdf
 
-## Octave/Matlab Tutorial
+## 2.2 Octave/Matlab Tutorial
 
 This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. 
 
