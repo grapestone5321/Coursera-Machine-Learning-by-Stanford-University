@@ -3,7 +3,7 @@ Coursera-Machine Learning by Stanford University
 
 # WEEK 1
 
-## Introduction
+## 1.1 Introduction
 
 Welcome to Machine Learning! In this module, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed. 
 
@@ -14,7 +14,7 @@ The Course Wiki is under construction. Please visit the resources tab for the mo
 ### 3 Supervised Learning
 ### 4 Unsupervised Learning
 
-## Linear Regression with One Variable
+## 1.2 Linear Regression with One Variable
 
 Linear regression predicts a real-valued output based on an input value. 
 
@@ -32,7 +32,17 @@ We discuss the application of linear regression to housing price prediction, pre
 ### 3 Gradient Descent For Linear Regression
 
 
-### Linear Algebra review
+
+
+
+
+
+## 1.3 Linear Algebra Review
+
+This optional module provides a refresher on linear algebra concepts. 
+
+Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables.
+
 
 ### 1 Matrices and Vectors
 ### 2 Addition and Scalar Multiplication
@@ -40,15 +50,6 @@ We discuss the application of linear regression to housing price prediction, pre
 ### 4 Matrix Matrix Multiplication
 ### 5 Matrix Multiplication Properties
 ### 6 Inverse and Transpose
-
-
-
-
-## Linear Algebra Review
-
-This optional module provides a refresher on linear algebra concepts. 
-
-Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables.
 
 # WEEK 2
 
