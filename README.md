@@ -136,8 +136,6 @@ In this module, we introduce the notion of classification, the cost function for
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%203/Lecture6.pdf
 
 
-
-
 ## 3.2 Regularization
 Machine learning models need to generalize well to new examples that the model has not seen in practice. 
 
