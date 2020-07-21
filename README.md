@@ -144,6 +144,18 @@ Machine learning models need to generalize well to new examples that the model h
 In this module, we introduce regularization, which helps prevent models from overfitting the training data.
 
 
+### Solving the Problem of Overfitting
+- The Problem of Overfitting
+- Cost Function
+- Regularized Linear Regression
+- Regularized Logistic Regression
+
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%203/Lecture7.pdf
+
+
+
 # WEEK 4
 
 # WEEK 5
