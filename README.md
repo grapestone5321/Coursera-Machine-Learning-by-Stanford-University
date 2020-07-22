@@ -157,6 +157,30 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 # WEEK 4
+## 4.1 Neural Networks: Representation
+Neural networks is a model inspired by how the brain works. 
+
+It is widely used today in many applications: when your phone interprets and understand your voice commands, it is likely that a neural network is helping to understand your speech; when you cash a check, the machines that automatically read the digits also use neural networks.
+
+### Motivations
+- Non-linear Hypotheses
+- Neurons and the Brain
+
+
+### Neural Networks
+- Model Representation I
+- Model Representation II
+
+
+### Applications
+- Examples and Intuitions I
+- Examples and Intuitions II
+- Multiclass Classification
+
+### Slide:
+
+
+
 
 # WEEK 5
 
