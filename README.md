@@ -178,7 +178,7 @@ It is widely used today in many applications: when your phone interprets and und
 - Multiclass Classification
 
 ### Slide:
-
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%204/Lecture8.pdf
 
 
 
