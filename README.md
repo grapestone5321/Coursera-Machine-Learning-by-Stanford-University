@@ -190,6 +190,29 @@ In this module, we introduce the backpropagation algorithm that is used to help 
 
 At the end of this module, you will be implementing your own neural network for digit recognition.
 
+### Cost Function and Backpropagation
+
+- Cost Function
+- Backpropagation Algorithm
+- Backpropagation Intuition
+
+### Backpropagation in Practice
+
+
+- Implementation Note: Unrolling Parameters
+- Gradient Checking
+
+- Random Initialization
+- Putting It Together
+
+### Application of Neural Networks
+- Autonomous Driving
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%205/Lecture9.pdf
+
+
+
 # WEEK 6
 
 # WEEK 7
