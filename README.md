@@ -265,11 +265,33 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 7
 
-## Support Vector Machines
+## 7.1 Support Vector Machines
 
 Support vector machines, or SVMs, is a machine learning algorithm for classification. 
 
 We introduce the idea and intuitions behind SVMs and discuss how to use it in practice.
+
+### Large Margin Classification
+- Optimization Objective
+- Large Margin Intuition
+- Mathematics Behind Large Margin Classification
+
+
+
+
+### Kernels
+- Kernels I
+- Kernels II
+
+### SVMs in Practice
+- Using An SVM
+
+
+### Slide:
+
+
+
+
 
 # WEEK 8
 
