@@ -215,9 +215,48 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 6
 
+## 6.1 Advice for Applying Machine Learning
+Applying machine learning in practice is not always straightforward. 
+
+In this module, we share best practices for applying machine learning in practice, and discuss the best ways to evaluate performance of the learned models.
+
+
+### Evaluating a Learning Algorithm
+- Deciding What to Try Next
+- Evaluating a Hypothesis
+- Model Selection and Train/Validation/Test Sets
+
+### Bias vs. Variance
+- Diagnosing Bias vs. Variance
+- Regularization and Bias/Variance
+- Learning Curves
+- Deciding What to Do Next Revisited
+
+
+
+
+
 ### Slide:
 
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%206/Lecture10.pdf
+
+## 6.2 Machine Learning System Design
+To optimize a machine learning algorithm, you’ll need to first understand where the biggest improvements can be made. 
+
+In this module, we discuss how to understand the performance of a machine learning system with multiple parts, and also how to deal with skewed data.
+
+### Buildinf a Spam Classifier
+- Prioritizing What to Work On
+- Error Analysis
+
+
+
+### Handling Skewed Data
+- Error Metrics for Skewed Classes
+- Trading Off Precision and Recall
+
+### Using Large Data Sets
+- Data For Machine Learning
 
 
 ### Slide:
