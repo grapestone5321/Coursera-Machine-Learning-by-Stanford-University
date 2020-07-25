@@ -215,6 +215,15 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 6
 
+### Slide:
+
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%206/Lecture10.pdf
+
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%206/Lecture11.pdf
+
+
 # WEEK 7
 
 ## Support Vector Machines
