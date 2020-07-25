@@ -308,7 +308,34 @@ In this module, we introduce Principal Components Analysis, and show how it can 
 
 # WEEK 9
 
+## 9.1 Anomaly Detection
+Given a large number of data points, we may sometimes want to figure out which ones vary significantly from the average. 
+
+For example, in manufacturing, we may want to detect defects or anomalies. 
+
+We show how a dataset can be modeled using a Gaussian distribution, and how the model can be used for anomaly detection.
+
+## 9.2 Recommender Systems
+When you buy a product online, most websites automatically recommend other products that you may like. 
+
+Recommender systems look at patterns of activities between different users and different products to produce these recommendations. 
+
+In this module, we introduce recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization.
+
+
 # WEEK 10
 
+## 10.1 Large Scale Machine Learning
+Machine learning works best when there is an abundance of data to leverage for training. 
+
+In this module, we discuss how to apply the machine learning algorithms with large datasets.
+
 # WEEK 11
+
+## 11.1 Application Example: Photo OCR
+Identifying and recognizing objects, words, and digits in an image is a challenging task. 
+
+We discuss how a pipeline can be built to tackle this problem and how to analyze and improve the performance of such a system.
+
+
 
