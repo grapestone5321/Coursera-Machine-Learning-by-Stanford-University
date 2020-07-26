@@ -288,7 +288,7 @@ We introduce the idea and intuitions behind SVMs and discuss how to use it in pr
 
 
 ### Slide:
-
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%207/Lecture12.pdf
 
 
 
