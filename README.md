@@ -322,12 +322,23 @@ For example, in manufacturing, we may want to detect defects or anomalies.
 
 We show how a dataset can be modeled using a Gaussian distribution, and how the model can be used for anomaly detection.
 
+
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%209/Lecture15.pdf
+
+
 ## 9.2 Recommender Systems
 When you buy a product online, most websites automatically recommend other products that you may like. 
 
 Recommender systems look at patterns of activities between different users and different products to produce these recommendations. 
 
 In this module, we introduce recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization.
+
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%209/Lecture16.pdf
+
 
 
 # WEEK 10
