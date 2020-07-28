@@ -392,12 +392,44 @@ Machine learning works best when there is an abundance of data to leverage for t
 
 In this module, we discuss how to apply the machine learning algorithms with large datasets.
 
+### Gradient Descent with Large Datasets
+- Learning With Large Datasets
+- Stochastic Gradient Descent
+- Stochastic Gradient Descent Convergence
+
+
+### Advanced Topics
+
+- Online Learning
+- Map Reduce and Data Parallelism
+
+
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%2010/Lecture17.pdf
+
+
+
 # WEEK 11
 
 ## 11.1 Application Example: Photo OCR
 Identifying and recognizing objects, words, and digits in an image is a challenging task. 
 
 We discuss how a pipeline can be built to tackle this problem and how to analyze and improve the performance of such a system.
+
+### Photo OCR
+- Problem Description and Pipeline
+- Sliding Windows
+- Getting Lots of Data and Artificial Data
+- Ceiling Analysis: What Part of the Pipeline to Work on Next
+
+### Slide:
+https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%2011/Lecture18.pdf
+
+
+### Conclusion
+
+- Summary and Thank You
 
 
 
