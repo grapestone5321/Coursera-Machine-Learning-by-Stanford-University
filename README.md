@@ -323,6 +323,26 @@ For example, in manufacturing, we may want to detect defects or anomalies.
 We show how a dataset can be modeled using a Gaussian distribution, and how the model can be used for anomaly detection.
 
 
+### Density Estimation
+- Problem Motivation
+- Gaussian Distribution
+- Algorithm
+
+### Building an Anomaly Detection System
+- Developing and Evaluating an Anomaly Detection System
+- Anomaly Detection vs. Supervised Learning
+- Choosing What Features to Use
+
+### Multivariate Gaussian Distribution (Optional)
+- Multivariate Gaussian Distribution
+- Anomaly Detection using the Multivariate Gaussian Distribution
+
+
+
+
+
+
+
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%209/Lecture15.pdf
@@ -334,6 +354,30 @@ When you buy a product online, most websites automatically recommend other produ
 Recommender systems look at patterns of activities between different users and different products to produce these recommendations. 
 
 In this module, we introduce recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization.
+
+
+### Predicting Movie Ratings
+- Problem Formulation
+- Content Based Recommendations
+
+### Collaborative Filtering
+- Collaborative Filtering
+- Collaborative Filtering Algorithm
+
+
+### Low Rank Matrix Factorization
+- Vectorization: Low Rank Matrix Factorization
+- Implementational Detail: Mean Normalization
+
+
+
+
+
+
+
+
+
+
 
 
 ### Slide:
