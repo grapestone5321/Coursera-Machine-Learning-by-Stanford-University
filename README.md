@@ -302,12 +302,43 @@ We use unsupervised learning to build models that help us understand our data be
 We discuss the k-Means algorithm for clustering that enable us to learn groupings of unlabeled data points.
 
 
+### Clustering
+- Unsupervised Learning: Introduction
+- K-Means Algorithm
+- Optimization Objective
+- Random Initialization
+- Choosing the Number of Clusters
+
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%208/Lecture13.pdf
 
 
 ## 8.2 Dimensionality Reduction
 In this module, we introduce Principal Components Analysis, and show how it can be used for data compression to speed up learning algorithms as well as for visualizations of complex datasets.
+
+
+### Motivation
+- Motivation I: Data Compression
+- Motivation II: Visualization
+
+
+
+### Principal Component Analysis
+
+- Principal Component Analysis Problem Formulation
+- Principal Component Analysis Algorithm
+
+
+
+### Applying PCA
+- Reconstruction from Compressed Representation
+- Choosing the Number of Principal Components
+- Advice for Applying PCA
+
+
+
+
+
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%208/Lecture14.pdf
@@ -337,13 +368,6 @@ We show how a dataset can be modeled using a Gaussian distribution, and how the 
 - Multivariate Gaussian Distribution
 - Anomaly Detection using the Multivariate Gaussian Distribution
 
-
-
-
-
-
-
-
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%209/Lecture15.pdf
 
@@ -371,15 +395,6 @@ In this module, we introduce recommender algorithms such as the collaborative fi
 
 
 
-
-
-
-
-
-
-
-
-
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%209/Lecture16.pdf
 
@@ -395,6 +410,7 @@ In this module, we discuss how to apply the machine learning algorithms with lar
 ### Gradient Descent with Large Datasets
 - Learning With Large Datasets
 - Stochastic Gradient Descent
+- Mini-Batch Gradient Descent
 - Stochastic Gradient Descent Convergence
 
 
