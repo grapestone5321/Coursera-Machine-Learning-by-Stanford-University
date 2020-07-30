@@ -58,6 +58,8 @@ This optional module provides a refresher on linear algebra concepts.
 
 Basic understanding of linear algebra is necessary for the rest of the course, especially as we begin to cover models with multiple variables.
 
+### 6 videos, 7 readings, 1 practice quiz
+
 
 - Matrices and Vectors
 - Addition and Scalar Multiplication
