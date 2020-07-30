@@ -3,6 +3,8 @@ Coursera-Machine Learning by Stanford University
 
 # WEEK 1
 
+### 18 videos
+
 ## 1.1 Introduction
 
 
