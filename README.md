@@ -6,10 +6,17 @@ Coursera-Machine Learning by Stanford University
 ## 1.1 Introduction
 
 
-
 Welcome to Machine Learning! In this module, we introduce the core idea of teaching a computer to learn concepts using data—without being explicitly programmed. 
 
 The Course Wiki is under construction. Please visit the resources tab for the most complete and up-to-date information.
+
+### 5 videos, 9 readings
+
+### Welcome
+- Welcome to Machine Learning!
+
+
+### Introduction
 
 - Welcome
 - What is Machine Learning?
@@ -25,6 +32,7 @@ Linear regression predicts a real-valued output based on an input value.
 
 We discuss the application of linear regression to housing price prediction, present the notion of a cost function, and introduce the gradient descent method for learning.
 
+### 7 videos, 8 readings
 
 ### Model and Cost Function
 - Model Representation
