@@ -76,18 +76,26 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 2
 
+### 14 videos
+
 ## 2.1 Environment Setup Instructions
 
 
 ## 2.2 Linear Regression with Multiple Variables
-### Multivariate Linear Regression
+
 
 What if your input has more than one value? In this module, we show how linear regression can be extended to accommodate multiple input features. 
 
 We also discuss best practices for implementing linear regression.
 
+### 8 videos, 16 readings
 
-
+### Multivariate Linear Regression
+- Multiple Features
+- Gradient Descent for Multiple Variables
+- Gradient Descent in Practice I - Feature Scaling
+- Gradient Descent in Practice II - Learning Rate
+- Features and Polynomial Regression
 
 
 ### Computing Parameters Analitically
@@ -95,10 +103,12 @@ We also discuss best practices for implementing linear regression.
 - Normal Equation
 - Normal Equation Noninvertibility
 
+
+
 ### Submitting Programming Assignments 
-
-
 - Working on and Submitting Programming Assignments
+
+
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%202/Lecture4.pdf
@@ -110,6 +120,10 @@ This course includes programming assignments designed to help you understand how
 To complete the programming assignments, you will need to use Octave or MATLAB. 
 
 This module introduces Octave/Matlab and shows you how to submit an assignment.
+
+
+### 6 videos, 1 reading
+
 
 - Basic Operations
 - Moving Data Around
