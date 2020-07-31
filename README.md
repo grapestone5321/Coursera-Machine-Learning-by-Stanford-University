@@ -1,6 +1,9 @@
 # Coursera-Machine-Learning-by-Stanford-University
 Coursera-Machine Learning by Stanford University
 
+## 113 videos
+
+
 # WEEK 1
 
 ### 18 videos
@@ -189,10 +192,18 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 # WEEK 4
+
+
+### 7 videos
+
+
 ## 4.1 Neural Networks: Representation
 Neural networks is a model inspired by how the brain works. 
 
 It is widely used today in many applications: when your phone interprets and understand your voice commands, it is likely that a neural network is helping to understand your speech; when you cash a check, the machines that automatically read the digits also use neural networks.
+
+### 7 videos, 6 readings
+
 
 ### Motivations
 - Non-linear Hypotheses
@@ -216,10 +227,16 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 5
 
+### 8 videos
+
 ## 5.1 Neural Networks: Learning
 In this module, we introduce the backpropagation algorithm that is used to help learn parameters for a neural network. 
 
 At the end of this module, you will be implementing your own neural network for digit recognition.
+
+
+
+### 8 videos, 8 readings
 
 ### Cost Function and Backpropagation
 
@@ -246,11 +263,14 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 6
 
+### 12 videos
+
 ## 6.1 Advice for Applying Machine Learning
 Applying machine learning in practice is not always straightforward. 
 
 In this module, we share best practices for applying machine learning in practice, and discuss the best ways to evaluate performance of the learned models.
 
+### 7 videos, 7 readings
 
 ### Evaluating a Learning Algorithm
 - Deciding What to Try Next
@@ -276,6 +296,11 @@ To optimize a machine learning algorithm, you’ll need to first understand wher
 
 In this module, we discuss how to understand the performance of a machine learning system with multiple parts, and also how to deal with skewed data.
 
+
+
+### 5 videos, 3 readings
+
+
 ### Buildinf a Spam Classifier
 - Prioritizing What to Work On
 - Error Analysis
@@ -296,11 +321,17 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 7
 
+### 6 videos
+
 ## 7.1 Support Vector Machines
 
 Support vector machines, or SVMs, is a machine learning algorithm for classification. 
 
 We introduce the idea and intuitions behind SVMs and discuss how to use it in practice.
+
+
+### 6 videos, 1 reading
+
 
 ### Large Margin Classification
 - Optimization Objective
@@ -326,12 +357,16 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 8
 
+
+### 12 videos
+
 ## 8.1 Unsupervised Learning
 
 We use unsupervised learning to build models that help us understand our data better. 
 
 We discuss the k-Means algorithm for clustering that enable us to learn groupings of unlabeled data points.
 
+### 5 videos, 1 reading
 
 ### Clustering
 - Unsupervised Learning: Introduction
@@ -347,6 +382,8 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 ## 8.2 Dimensionality Reduction
 In this module, we introduce Principal Components Analysis, and show how it can be used for data compression to speed up learning algorithms as well as for visualizations of complex datasets.
 
+
+### 7 videos, 1 reading
 
 ### Motivation
 - Motivation I: Data Compression
@@ -377,12 +414,16 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 9
 
+### 14 videos
+
 ## 9.1 Anomaly Detection
 Given a large number of data points, we may sometimes want to figure out which ones vary significantly from the average. 
 
 For example, in manufacturing, we may want to detect defects or anomalies. 
 
 We show how a dataset can be modeled using a Gaussian distribution, and how the model can be used for anomaly detection.
+
+### 8 videos, 1 reading
 
 
 ### Density Estimation
@@ -410,6 +451,7 @@ Recommender systems look at patterns of activities between different users and d
 
 In this module, we introduce recommender algorithms such as the collaborative filtering algorithm and low-rank matrix factorization.
 
+### 6 videos, 1 reading
 
 ### Predicting Movie Ratings
 - Problem Formulation
@@ -433,10 +475,15 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 10
 
+### 6 videos
+
 ## 10.1 Large Scale Machine Learning
 Machine learning works best when there is an abundance of data to leverage for training. 
 
 In this module, we discuss how to apply the machine learning algorithms with large datasets.
+
+
+### 6 videos, 1 reading
 
 ### Gradient Descent with Large Datasets
 - Learning With Large Datasets
@@ -459,10 +506,17 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 # WEEK 11
 
+
+### 5 videos
+
 ## 11.1 Application Example: Photo OCR
 Identifying and recognizing objects, words, and digits in an image is a challenging task. 
 
 We discuss how a pipeline can be built to tackle this problem and how to analyze and improve the performance of such a system.
+
+
+
+### 5 videos, 1 reading
 
 ### Photo OCR
 - Problem Description and Pipeline
