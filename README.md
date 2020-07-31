@@ -3,6 +3,7 @@ Coursera-Machine Learning by Stanford University
 
 ## 113 videos
 
+# Contents
 ## Introduction
 ### 1.1 Introduction
 
@@ -28,6 +29,8 @@ Coursera-Machine Learning by Stanford University
 ### 10.1 Large Scale Machine Learning
 ### 11.1 Application Example: Photo OCR
 
+
+# Lectures
 # WEEK 1
 
 ### 18 videos
