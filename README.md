@@ -3,6 +3,30 @@ Coursera-Machine Learning by Stanford University
 
 ## 113 videos
 
+## Introduction
+### 1.1 Introduction
+
+## Supervised Learning
+### 1.2 Linear Regression with One Variable
+### 1.3 Linear Algebra Review
+### 2.1 Environment Setup Instructions
+### 2.2 Linear Regression with Multiple Variables
+### 2.3 Octave/Matlab Tutorial
+### 3.1 Logistic Regression
+### 3.2 Regularization
+### 4.1 Neural Networks: Representation
+### 5.1 Neural Networks: Learning
+### 6.1 Advice for Applying Machine Learning
+### 6.2 Machine Learning System Design
+### 7.1 Support Vector Machines
+
+## Unsupervised Learning
+### 8.1 Unsupervised Learning
+### 8.2 Dimensionality Reduction
+### 9.1 Anomaly Detection
+### 9.2 Recommender Systems
+### 10.1 Large Scale Machine Learning
+### 11.1 Application Example: Photo OCR
 
 # WEEK 1
 
@@ -116,7 +140,7 @@ We also discuss best practices for implementing linear regression.
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%202/Lecture4.pdf
 
-## 2.2 Octave/Matlab Tutorial
+## 2.3 Octave/Matlab Tutorial
 
 This course includes programming assignments designed to help you understand how to implement the learning algorithms in practice. 
 
