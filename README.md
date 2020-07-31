@@ -47,7 +47,7 @@ Coursera-Machine Learning by Stanford University
 
 
 ## Lectures
-# WEEK 1
+## WEEK 1
 
 ### 18 videos
 
@@ -120,7 +120,7 @@ Basic understanding of linear algebra is necessary for the rest of the course, e
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%201/Lecture3.pdf
 
 
-# WEEK 2
+## WEEK 2
 
 ### 14 videos
 
@@ -183,7 +183,7 @@ This module introduces Octave/Matlab and shows you how to submit an assignment.
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%202/Lecture5.pdf
 
 
-# WEEK 3
+## WEEK 3
 
 ### 11 videos
 
@@ -234,7 +234,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 
-# WEEK 4
+## WEEK 4
 
 
 ### 7 videos
@@ -268,7 +268,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 
-# WEEK 5
+## WEEK 5
 
 ### 8 videos
 
@@ -304,7 +304,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 
-# WEEK 6
+## WEEK 6
 
 ### 12 videos
 
@@ -362,7 +362,7 @@ In this module, we discuss how to understand the performance of a machine learni
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%206/Lecture11.pdf
 
 
-# WEEK 7
+## WEEK 7
 
 ### 6 videos
 
@@ -398,7 +398,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 
-# WEEK 8
+## WEEK 8
 
 
 ### 12 videos
@@ -455,7 +455,7 @@ In this module, we introduce Principal Components Analysis, and show how it can 
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%208/Lecture14.pdf
 
 
-# WEEK 9
+## WEEK 9
 
 ### 14 videos
 
@@ -516,7 +516,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 
-# WEEK 10
+## WEEK 10
 
 ### 6 videos
 
@@ -547,7 +547,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 
 
-# WEEK 11
+## WEEK 11
 
 
 ### 5 videos
