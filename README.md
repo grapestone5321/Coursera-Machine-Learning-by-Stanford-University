@@ -3,7 +3,7 @@ Coursera-Machine Learning by Stanford University
 
 ## 113 videos
 
-## Contents
+## [Contents]
 ### Introduction
 1.1 Introduction
 
@@ -46,7 +46,7 @@ Coursera-Machine Learning by Stanford University
 11.1 Application Example: Photo OCR
 
 
-## Lectures
+## [Lectures]
 ## WEEK 1
 
 ### 18 videos
