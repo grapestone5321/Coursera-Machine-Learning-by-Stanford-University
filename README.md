@@ -1,7 +1,7 @@
 # Coursera-Machine-Learning-by-Stanford-University
 Coursera-Machine Learning by Stanford University
 
-## 113 videos
+
 
 ## [Contents]
 ### Introduction
@@ -47,6 +47,9 @@ Coursera-Machine Learning by Stanford University
 
 
 ## [Lectures]
+
+## 113 videos
+
 ## WEEK 1
 
 ### 18 videos
