@@ -201,17 +201,17 @@ In this module, we introduce the notion of classification, the cost function for
 ### 7 videos, 8 readings
 
 ### Classification and Representation
-- Classification
-- Hypothesis Representation
-- Decision Boundary
+- 33 Classification
+- 34 Hypothesis Representation
+- 35 Decision Boundary
 
 ### Logistic Regression Model
-- Cost Function
-- Simplified Cost Function and Gradient Descent
-- Advanced Optimization
+- 36 Cost Function
+- 37 Simplified Cost Function and Gradient Descent
+- 38 Advanced Optimization
 
 ### Multiclass Classification
-- Multiclass Classification: One-vs-all
+- 39 Multiclass Classification: One-vs-all
 
 
 ### Slide:
@@ -227,10 +227,10 @@ In this module, we introduce regularization, which helps prevent models from ove
 
 
 ### Solving the Problem of Overfitting
-- The Problem of Overfitting
-- Cost Function
-- Regularized Linear Regression
-- Regularized Logistic Regression
+- 40 The Problem of Overfitting
+- 41 Cost Function
+- 42 Regularized Linear Regression
+- 43 Regularized Logistic Regression
 
 
 ### Slide:
@@ -253,19 +253,19 @@ It is widely used today in many applications: when your phone interprets and und
 
 
 ### Motivations
-- Non-linear Hypotheses
-- Neurons and the Brain
+- 44 Non-linear Hypotheses
+- 45 Neurons and the Brain
 
 
 ### Neural Networks
-- Model Representation I
-- Model Representation II
+- 46 Model Representation I
+- 47 Model Representation II
 
 
 ### Applications
-- Examples and Intuitions I
-- Examples and Intuitions II
-- Multiclass Classification
+- 48 Examples and Intuitions I
+- 49 Examples and Intuitions II
+- 50 Multiclass Classification
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%204/Lecture8.pdf
@@ -287,21 +287,21 @@ At the end of this module, you will be implementing your own neural network for 
 
 ### Cost Function and Backpropagation
 
-- Cost Function
-- Backpropagation Algorithm
-- Backpropagation Intuition
+- 51 Cost Function
+- 52 Backpropagation Algorithm
+- 53 Backpropagation Intuition
 
 ### Backpropagation in Practice
 
 
-- Implementation Note: Unrolling Parameters
-- Gradient Checking
+- 54 Implementation Note: Unrolling Parameters
+- 55 Gradient Checking
 
-- Random Initialization
-- Putting It Together
+- 56 Random Initialization
+- 57 Putting It Together
 
 ### Application of Neural Networks
-- Autonomous Driving
+- 58 Autonomous Driving
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%205/Lecture9.pdf
@@ -320,15 +320,15 @@ In this module, we share best practices for applying machine learning in practic
 ### 7 videos, 7 readings
 
 ### Evaluating a Learning Algorithm
-- Deciding What to Try Next
-- Evaluating a Hypothesis
-- Model Selection and Train/Validation/Test Sets
+- 59 Deciding What to Try Next
+- 60 Evaluating a Hypothesis
+- 61 Model Selection and Train/Validation/Test Sets
 
 ### Bias vs. Variance
-- Diagnosing Bias vs. Variance
-- Regularization and Bias/Variance
-- Learning Curves
-- Deciding What to Do Next Revisited
+- 62 Diagnosing Bias vs. Variance
+- 63 Regularization and Bias/Variance
+- 64 Learning Curves
+- 65 Deciding What to Do Next Revisited
 
 
 
@@ -349,17 +349,17 @@ In this module, we discuss how to understand the performance of a machine learni
 
 
 ### Buildinf a Spam Classifier
-- Prioritizing What to Work On
-- Error Analysis
+- 66 Prioritizing What to Work On
+- 67 Error Analysis
 
 
 
 ### Handling Skewed Data
-- Error Metrics for Skewed Classes
-- Trading Off Precision and Recall
+- 68 Error Metrics for Skewed Classes
+- 69 Trading Off Precision and Recall
 
 ### Using Large Data Sets
-- Data For Machine Learning
+- 70 Data For Machine Learning
 
 
 ### Slide:
@@ -381,19 +381,19 @@ We introduce the idea and intuitions behind SVMs and discuss how to use it in pr
 
 
 ### Large Margin Classification
-- Optimization Objective
-- Large Margin Intuition
-- Mathematics Behind Large Margin Classification
+- 71 Optimization Objective
+- 72 Large Margin Intuition
+- 73 Mathematics Behind Large Margin Classification
 
 
 
 
 ### Kernels
-- Kernels I
-- Kernels II
+- 74 Kernels I
+- 75 Kernels II
 
 ### SVMs in Practice
-- Using An SVM
+- 76 Using An SVM
 
 
 ### Slide:
@@ -416,11 +416,11 @@ We discuss the k-Means algorithm for clustering that enable us to learn grouping
 ### 5 videos, 1 reading
 
 ### Clustering
-- Unsupervised Learning: Introduction
-- K-Means Algorithm
-- Optimization Objective
-- Random Initialization
-- Choosing the Number of Clusters
+- 77 Unsupervised Learning: Introduction
+- 78 K-Means Algorithm
+- 79 Optimization Objective
+- 80 Random Initialization
+- 81 Choosing the Number of Clusters
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%208/Lecture13.pdf
@@ -433,22 +433,22 @@ In this module, we introduce Principal Components Analysis, and show how it can 
 ### 7 videos, 1 reading
 
 ### Motivation
-- Motivation I: Data Compression
-- Motivation II: Visualization
+- 82 Motivation I: Data Compression
+- 83 Motivation II: Visualization
 
 
 
 ### Principal Component Analysis
 
-- Principal Component Analysis Problem Formulation
-- Principal Component Analysis Algorithm
+- 84 Principal Component Analysis Problem Formulation
+- 85 Principal Component Analysis Algorithm
 
 
 
 ### Applying PCA
-- Reconstruction from Compressed Representation
-- Choosing the Number of Principal Components
-- Advice for Applying PCA
+- 86 Reconstruction from Compressed Representation
+- 87 Choosing the Number of Principal Components
+- 88 Advice for Applying PCA
 
 
 
@@ -474,18 +474,18 @@ We show how a dataset can be modeled using a Gaussian distribution, and how the 
 
 
 ### Density Estimation
-- Problem Motivation
-- Gaussian Distribution
-- Algorithm
+- 89 Problem Motivation
+- 90 Gaussian Distribution
+- 91 Algorithm
 
 ### Building an Anomaly Detection System
-- Developing and Evaluating an Anomaly Detection System
-- Anomaly Detection vs. Supervised Learning
-- Choosing What Features to Use
+- 92 Developing and Evaluating an Anomaly Detection System
+- 93 Anomaly Detection vs. Supervised Learning
+- 94 Choosing What Features to Use
 
 ### Multivariate Gaussian Distribution (Optional)
-- Multivariate Gaussian Distribution
-- Anomaly Detection using the Multivariate Gaussian Distribution
+- 95 Multivariate Gaussian Distribution
+- 96 Anomaly Detection using the Multivariate Gaussian Distribution
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%209/Lecture15.pdf
@@ -501,17 +501,17 @@ In this module, we introduce recommender algorithms such as the collaborative fi
 ### 6 videos, 1 reading
 
 ### Predicting Movie Ratings
-- Problem Formulation
-- Content Based Recommendations
+- 97 Problem Formulation
+- 98 Content Based Recommendations
 
 ### Collaborative Filtering
-- Collaborative Filtering
-- Collaborative Filtering Algorithm
+- 99 Collaborative Filtering
+- 100 Collaborative Filtering Algorithm
 
 
 ### Low Rank Matrix Factorization
-- Vectorization: Low Rank Matrix Factorization
-- Implementational Detail: Mean Normalization
+- 101 Vectorization: Low Rank Matrix Factorization
+- 102 Implementational Detail: Mean Normalization
 
 
 
@@ -533,16 +533,16 @@ In this module, we discuss how to apply the machine learning algorithms with lar
 ### 6 videos, 1 reading
 
 ### Gradient Descent with Large Datasets
-- Learning With Large Datasets
-- Stochastic Gradient Descent
-- Mini-Batch Gradient Descent
-- Stochastic Gradient Descent Convergence
+- 103 Learning With Large Datasets
+- 104 Stochastic Gradient Descent
+- 105 Mini-Batch Gradient Descent
+- 106 Stochastic Gradient Descent Convergence
 
 
 ### Advanced Topics
 
-- Online Learning
-- Map Reduce and Data Parallelism
+- 107 Online Learning
+- 108 Map Reduce and Data Parallelism
 
 
 
@@ -566,10 +566,10 @@ We discuss how a pipeline can be built to tackle this problem and how to analyze
 ### 5 videos, 1 reading
 
 ### Photo OCR
-- Problem Description and Pipeline
-- Sliding Windows
-- Getting Lots of Data and Artificial Data
-- Ceiling Analysis: What Part of the Pipeline to Work on Next
+- 109 Problem Description and Pipeline
+- 110 Sliding Windows
+- 111 Getting Lots of Data and Artificial Data
+- 112 Ceiling Analysis: What Part of the Pipeline to Work on Next
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%2011/Lecture18.pdf
@@ -577,7 +577,7 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 
 ### Conclusion
 
-- Summary and Thank You
+- 113 Summary and Thank You
 
 
 
