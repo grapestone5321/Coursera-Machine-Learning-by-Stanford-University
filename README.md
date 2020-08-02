@@ -141,22 +141,22 @@ We also discuss best practices for implementing linear regression.
 ### 8 videos, 16 readings
 
 ### Multivariate Linear Regression
-- Multiple Features
-- Gradient Descent for Multiple Variables
-- Gradient Descent in Practice I - Feature Scaling
-- Gradient Descent in Practice II - Learning Rate
-- Features and Polynomial Regression
+- 19 Multiple Features
+- 20 Gradient Descent for Multiple Variables
+- 21 Gradient Descent in Practice I - Feature Scaling
+- 22 Gradient Descent in Practice II - Learning Rate
+- 23 Features and Polynomial Regression
 
 
 ### Computing Parameters Analitically
 
-- Normal Equation
-- Normal Equation Noninvertibility
+- 24 Normal Equation
+- 25 Normal Equation Noninvertibility
 
 
 
 ### Submitting Programming Assignments 
-- Working on and Submitting Programming Assignments
+- 26 Working on and Submitting Programming Assignments
 
 
 
@@ -175,12 +175,12 @@ This module introduces Octave/Matlab and shows you how to submit an assignment.
 ### 6 videos, 1 reading
 
 
-- Basic Operations
-- Moving Data Around
-- Computing on Data
-- Plotting Data
-- Control Statements: for, while, if statement
-- Vectorization
+- 27 Basic Operations
+- 28 Moving Data Around
+- 29 Computing on Data
+- 30 Plotting Data
+- 31 Control Statements: for, while, if statement
+- 32 Vectorization
 
 
 ### Slide:
