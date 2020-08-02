@@ -65,15 +65,15 @@ The Course Wiki is under construction. Please visit the resources tab for the mo
 ### 5 videos, 9 readings
 
 ### Welcome
-- Welcome to Machine Learning!
+- 1 Welcome to Machine Learning!
 
 
 ### Introduction
 
-- Welcome
-- What is Machine Learning?
-- Supervised Learning
-- Unsupervised Learning
+- 2 Welcome
+- 3 What is Machine Learning?
+- 4 Supervised Learning
+- 5 Unsupervised Learning
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%201/Lecture1.pdf
@@ -87,15 +87,15 @@ We discuss the application of linear regression to housing price prediction, pre
 ### 7 videos, 8 readings
 
 ### Model and Cost Function
-- Model Representation
-- Cost Function
-- Cost Function - Intuition I
-- Cost Function - Intuition II
+- 6 Model Representation
+- 7 Cost Function
+- 8 Cost Function - Intuition I
+- 9 Cost Function - Intuition II
 
 ### Parameter Learning
-- Gradient Descent
-- Gradient Descent Intuition
-- Gradient Descent For Linear Regression
+- 10 Gradient Descent
+- 11 Gradient Descent Intuition
+- 12 Gradient Descent For Linear Regression
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%201/Lecture2.pdf
@@ -113,12 +113,12 @@ Basic understanding of linear algebra is necessary for the rest of the course, e
 ### 6 videos, 7 readings, 1 practice quiz
 
 
-- Matrices and Vectors
-- Addition and Scalar Multiplication
-- Matrix Vector Multiplication
-- Matrix Matrix Multiplication
-- Matrix Multiplication Properties
-- Inverse and Transpose
+- 13 Matrices and Vectors
+- 14 Addition and Scalar Multiplication
+- 15 Matrix Vector Multiplication
+- 16 Matrix Matrix Multiplication
+- 17 Matrix Multiplication Properties
+- 18 Inverse and Transpose
 
 ### Slide:
 https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-University/blob/master/Slides/Week%201/Lecture3.pdf
