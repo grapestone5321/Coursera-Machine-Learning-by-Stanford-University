@@ -1,6 +1,5 @@
-# Coursera-Machine-Learning-by-Stanford-University
-Coursera-Machine Learning by Stanford University
-
+# Coursera-Machine Learning by Stanford University
+Andrew Ng: Coursera-Machine Learning
 
 
 
