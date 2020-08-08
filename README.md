@@ -348,7 +348,7 @@ In this module, we discuss how to understand the performance of a machine learni
 ### 5 videos, 3 readings
 
 
-### Buildinf a Spam Classifier
+### Building a Spam Classifier
 - 66 Prioritizing What to Work On
 - 67 Error Analysis
 
