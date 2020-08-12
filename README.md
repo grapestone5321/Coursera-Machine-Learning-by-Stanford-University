@@ -5,7 +5,6 @@ Andrew Ng: Coursera-Machine Learning
 
 
 
-
 ## [Contents]
 ### Introduction
 1.1 Introduction
