@@ -581,4 +581,6 @@ https://github.com/grapestone5321/Coursera-Machine-Learning-by-Stanford-Universi
 - 113 Summary and Thank You
 
 
+[Grade]
+
 
