@@ -589,5 +589,7 @@ Quiz
 ### 2 Linear Regression with One Variable
 Quiz
 
-Linear Regression with Multiple Variables
+### 3 Linear Regression with Multiple Variables
 Quiz
+
+
