@@ -593,8 +593,8 @@ Quiz
 Quiz
 
 
-### Octave/Matlab Tutorial
+### 4 Octave/Matlab Tutorial
 Quiz
 
-### Linear Regression
+### 5 Linear Regression
 Programming Assignment
