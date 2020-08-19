@@ -598,3 +598,6 @@ Quiz
 
 ### 5 Linear Regression
 Programming Assignment
+
+### 6 Logistic Regression
+Quiz
