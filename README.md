@@ -604,3 +604,7 @@ Quiz
 
 ### 7 Regularization
 Quiz
+
+
+### 8 Logistic Regression
+Programming Assignment
