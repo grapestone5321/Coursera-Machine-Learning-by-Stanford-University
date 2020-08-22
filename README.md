@@ -608,3 +608,6 @@ Quiz
 
 ### 8 Logistic Regression
 Programming Assignment
+
+### 9 Neural Networks: Representation
+Quiz
