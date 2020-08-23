@@ -611,3 +611,6 @@ Programming Assignment
 
 ### 9 Neural Networks: Representation
 Quiz
+
+### 10 Multi-class Classification and Neural Networks
+Programming Assignment
