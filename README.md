@@ -617,3 +617,64 @@ Programming Assignment
 
 ### 11 Neural Networks: Learning
 Quiz
+
+### 12 Neural Network Learning
+Programming Assignment
+
+### 13 Advice for Applying Machine Learning
+Quiz
+
+
+### 14 Regularized Linear Regression and Bias/Variance
+Programming Assignment
+
+### 15 Machine Learning System Design
+Quiz
+
+### 16 Support Vector Machines
+Quiz
+
+### 17 Support Vector Machines
+Programming Assignment
+
+### 18 Unsupervised Learning
+Quiz
+
+### 19 Principal Component Analysis
+Quiz
+
+
+### 20 K-Means Clustering and PCA
+Programming Assignment
+
+
+### 21 Anomaly Detection
+Quiz
+
+
+### 22 Recommender Systems
+Quiz
+
+
+### 23 Anomaly Detection and Recommender Systems
+Programming Assignment
+
+
+
+### 24 Large Scale Machine Learning
+Quiz
+
+
+### 25 Application: Photo OCR
+Quiz
+
+
+
+
+
+
+
+
+
+
+
