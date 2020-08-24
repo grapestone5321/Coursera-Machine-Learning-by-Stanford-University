@@ -673,42 +673,42 @@ Quiz
 
 ## [How It Works]
 
-## GENERAL
+## 1 GENERAL
 
-### How do I pass the course?
+### 1.1 How do I pass the course?
 
 To earn your Course Certificate, you’ll need to earn a passing grade on each of the required assignments—these can be quizzes, peer-graded assignments, or programming assignments. Videos, readings, and practice exercises are there to help you prepare for the graded assignments.
 
-### What do start dates and end dates mean?
+### 1.2 What do start dates and end dates mean?
 
 Most courses have sessions that run multiple times a year — each with a specific start and end date. Once you enroll, you’ll have access to all videos, readings, quizzes, and programming assignments (if applicable). Peer-graded assignments can only be submitted and reviewed once your session has begun. If you choose to explore the course without purchasing, you may not be able to access certain assignments. If you don’t finish all graded assignments before the end of the session, you can enroll in the next session. Your progress will be saved and you’ll be able to pick up where you left off when the next session begins.
 
-### What are due dates? Is there a penalty for submitting my work after a due date?
+### 1.3 What are due dates? Is there a penalty for submitting my work after a due date?
 
 Within each session, there are suggested due dates to help you manage your schedule and keep coursework from piling up. Quizzes and programming assignments can be submitted late without consequence. However, it is possible that you won't receive a grade if you submit your peer-graded assignment too late because classmates usually review assignment within three days of the assignment deadline.
 
-### Can I re-attempt an assignment?
+### 1.4 Can I re-attempt an assignment?
 
 Yes. If you want to improve your grade, you can always try again. If you’re re-attempting a peer-graded assignment, re-submit your work as soon as you can to make sure thugh time for your classmates to review your work. In some cases you may need to wait before re-submitting a programming assignment or quiz. We encourage you to review course material during this delay.
 
-## PROGRAMMING ASSIGNMENTS
+## 2 PROGRAMMING ASSIGNMENTS
 
 
 ### Programming assignments require you to write and run a computer program to solve a problem.
 
-### What are programming assignments?
+### 2.1 What are programming assignments?
 
 Programming assignments include both assignment instructions and assignment parts. Instructions may include a link to a downloadable starter package that includes starter code, detailed guidelines, and other resources. Assignment parts are similar to individual quiz questions. Each part is a single coding task that can be completed one at a time.
 
-### How are programming assignments graded?
+### 2.2 How are programming assignments graded?
 
 Programming assignments are graded automatically. If they use a built-in-algorithm you’ll see your grade within seconds. If they use a custom grader, you may need to wait up to an hour.
 
-### Can I resubmit a programming assignment?
+### 2.3 Can I resubmit a programming assignment?
 
 You can resubmit all programming assignments to improve your grade. Follow the same steps as submitting a new assignment.
 
-### What do I do if I have trouble submitting my assignment?
+### 2.4 What do I do if I have trouble submitting my assignment?
 
 If you have trouble submitting your assignment, we encourage you to visit your course Discussion Forums as many of your peers are likely to have had similar problems and have found a solution. Each programming assignment has its own sub-forum to discuss with peers.
 
