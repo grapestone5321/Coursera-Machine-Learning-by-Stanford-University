@@ -614,3 +614,6 @@ Quiz
 
 ### 10 Multi-class Classification and Neural Networks
 Programming Assignment
+
+### 11 Neural Networks: Learning
+Quiz
